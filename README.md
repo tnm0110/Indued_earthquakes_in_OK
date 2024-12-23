@@ -1,8 +1,7 @@
 # Wastewater Injection Activities and Induced Earthquakes in Oklahoma
 
-This study demonstrates the application of geospatial analysis using publicly available datasets. By employing straightforward GIS analysis techniques, it highlights well-documented phenomena such as induced seismicity.
-
-The state of Oklahoma was selected due to its significant increase in seismic activity in recent years. Additionally, I have developed a Jupyter Notebook that can be adapted for similar analyses in other states affected by induced seismicity, such as Kansas and Illinois.
+This study demonstrates the application of geospatial analysis using publicly available datasets. By employing GIS analysis techniques, it highlights well-documented phenomena of induced seismicity caused by saltwater injection.
+Oklahoma was selected due to its significant increase in seismic activity in recent years. Additionally, I have developed a Jupyter Notebook that can be adapted for similar analyses in other states affected by induced seismicity, such as Kansas and Illinois.
 
 # Project Components
 project_induced_seismicity.ipynb: The main Jupyter Notebook performing data mining and GIS analysis.
